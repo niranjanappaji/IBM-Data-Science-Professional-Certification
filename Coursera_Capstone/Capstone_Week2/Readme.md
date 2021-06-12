@@ -1,6 +1,6 @@
 
 
-## The Battle of Neighborhoods - Week 1
+## The Battle of Neighborhoods - Week 2
 
 - Submiting the program notebook to the problem discussed in week 1
 - Sumbitting Project report
